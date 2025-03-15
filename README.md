@@ -48,3 +48,6 @@ This project expects all participants to adhere to Meta's OSS [Code of Conduct][
 ## License
 
 React Strict DOM is [MIT licensed](./LICENSE).
+
+![YOLO](https://img.shields.io/badge/YOLO-Detection-orange?style=for-the-badge)
+
